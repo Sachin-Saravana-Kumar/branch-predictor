@@ -77,17 +77,3 @@ You can analyze the simulator's performance using different branch traces and pr
 - **Trace files** for testing different branch prediction patterns.
 - **Python scripts** for performance visualization.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit changes (`git commit -m "Add feature"`).
-4. Push to your fork (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or issues, open an issue on GitHub or reach out via email at your-email@example.com.
-
